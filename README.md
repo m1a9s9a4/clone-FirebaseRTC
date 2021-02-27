@@ -1,3 +1,6 @@
+https://github.com/webrtc/FirebaseRTC
+上記の複製リポジトリ
+
 # Firebase + WebRTC Codelab
 ### Full code solution can be found under the branch: _solution_
 This is the GitHub repo for the FirebaseRTC codelab. This will teach you how 
